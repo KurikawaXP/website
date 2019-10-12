@@ -1,0 +1,19 @@
+body {
+    background-color: #1A5276;
+	color: white
+}
+
+.icon {
+	height: auto;
+	width: 32px;
+}
+
+.files {
+	width: 64px;
+	height; auto;
+}	
+
+a {
+	color: green;
+	text-decoration: none;
+}
